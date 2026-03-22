@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://threadsecurity.org/assets/thread-security-logo-wymSYitO.png" alt="ThreadSecurity Logo" width="200"/>
-</p>
-
-<p align="center">
-  <strong>Secure every thread with Thread Security.</strong>
-</p>
-
----
-
 Thread Security empowers organizations to build with confidence by securing the technologies that drive modern innovation. From web applications and smart contracts to Web3 platforms, cloud infrastructures, and open-source ecosystems, we identify and mitigate complex vulnerabilities before they evolve into critical risks.
 
 Our approach combines deep technical expertise with a proactive, research-driven security methodology, enabling teams to innovate rapidly while maintaining resilience, integrity, and trust.
