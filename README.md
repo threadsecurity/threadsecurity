@@ -10,4 +10,6 @@ We deliver industry-focused cybersecurity training and certification programs, e
 
 - 🌍 Website: https://threadsecurity.org/  
 - 💼 LinkedIn: https://www.linkedin.com/company/thread-security/  
-- 🐦 X (Twitter): https://x.com/ThreadSecurity  
+- 🐦 X (Twitter): https://x.com/ThreadSecurity
+
+
